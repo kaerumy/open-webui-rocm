@@ -2,7 +2,7 @@
 
 openweb-ui with rocm torch backend
 
-This is a fork of the OpenWeb UI project, modified to work with the ROCm
+This is a uv project for OpenWeb UI, modified to work with the ROCm
 backend for PyTorch. It allows you to run the OpenWeb UI on systems with
 AMD GPUs.
 
