@@ -1,0 +1,11 @@
+[project]
+name = "openweb-ui"
+version = "0.1.0"
+requires-python = ">=3.11"
+dependencies = [
+    "torch>=2.9.0.dev20250724",
+]
+
+[[tool.uv.index]]
+url = "https://download.pytorch.org/whl/nightly/rocm6.4/"
+explicit = true
