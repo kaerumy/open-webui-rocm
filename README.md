@@ -20,6 +20,7 @@ cd open-webui-rocm
 ```bash
 uv venv --python 3.11
 source .venv/bin/activate
+uv sync
 uv pip install open-webui
 ```
 
